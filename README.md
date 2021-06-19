@@ -6,4 +6,8 @@ Basic Spring boot app to create user [set password and roles], using keycloak-ad
 
 
 API Endpoint :  /keycloak/user
+
+
+
+
 Method : POST
